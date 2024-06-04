@@ -45,6 +45,6 @@ const questions = [
     if (score === questions.length) {
       alert("Está correto, Parabéns!")
     } else {
-      alert("Tente de novo!");
+      alert("Tente novamente!");
     }
   });
