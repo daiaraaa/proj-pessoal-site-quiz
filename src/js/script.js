@@ -1,7 +1,7 @@
 const questions = [
     { question: "Qual a capital da França?", answer: "Paris", answer:"paris", answer:"PARIS" },
     { question: "Qual a maior montanha do mundo?", answer: "Monte Everest", answer:"monte everest",answer:"MONTE EVEREST" },
-    { question: "Qual maior planeta do sistema solar?", answer: "Júpiter", answer: "júpiter", answer:"JÚPITER" },
+    { question: "Qual maior planeta do sistema solar?", answer: "Júpiter", answer: "júpiter", answer:"JÚPITER", answer:"Jupiter", answer:"jupiter", answer:"JUPITER" },
   ];
   
   let score = 0;
